@@ -1,0 +1,15 @@
+db:
+  port: 8080
+  url: localhost
+list:
+- Gary
+- Harold
+- Quora
+project_name: learning_viper_go
+students:
+- Keneth
+- Camila
+- Juan
+- Shriley
+- Nira
+- Daniela

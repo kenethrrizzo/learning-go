@@ -1,0 +1,10 @@
+students:
+- Keneth
+- Camila
+- Juan
+- Shriley
+- Nira
+- Daniela
+db:
+  url: localhost
+  port: 8080
