@@ -9,6 +9,10 @@ import "fmt"
 	the goroutines other values are being assigned. This affects the result of the
 	execution, different values are printed.
 */
+
+/* 
+	Please, check all 100 numbers in then execution.
+*/
 func main() {
 	for i := 0; i < 100; i++ {
 		x, y := 10, 2
